@@ -1,6 +1,8 @@
 # random-quote-generator
 a simple rails API server for generating a random quote
 
+live demo: https://pascales-random-quotes.herokuapp.com/quotes
+
 ### requirements :
 1. Rails 5.2.0 
 2. Ruby 2.5.1
