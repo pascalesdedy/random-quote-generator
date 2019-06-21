@@ -82,4 +82,6 @@ production:
   <<: *default
   database: quotes-generator_production
   username: quotes-generator
-  password: <%= ENV['QUOTES-GENERATOR_DATABASE_PASSWORD'] %>
+  password: admin
+  host : localhost
+
